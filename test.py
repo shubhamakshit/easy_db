@@ -13,7 +13,7 @@ sch = Schema(
                     'type': str,
                     "default": "John Doe",
                     "apply": lambda x: x.upper()
-                },
+                }, 
 
         'age':  {
                     'type': int,

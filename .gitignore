@@ -144,3 +144,4 @@ __pypackages__/
 /__pycache__
 __pycache__/DataObject.cpython-312.pyc
 __pycache__/Schema.cpython-312.pyc
+test.py
