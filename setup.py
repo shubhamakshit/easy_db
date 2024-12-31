@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='easy_db',
-    version='0.1.0',
+    version='0.1.1',
     author='Shubham Akshit',
     author_email='akshitshubhammas@gmail.com',
     description='A simple database management package',
@@ -12,6 +12,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'pymongo',
+        'twine',
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
