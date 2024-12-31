@@ -1,5 +1,5 @@
 # easy_db
-
+ 
 easy_db is a simple and easy-to-use Python library for interacting with MongoDB databases. It provides a convenient way to define schemas, create data objects, and perform basic database operations.
 
 ## Installation
