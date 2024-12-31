@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='easy_db',
+    name='easy_mongo',
     version='0.1.1',
     author='Shubham Akshit',
     author_email='akshitshubhammas@gmail.com',
